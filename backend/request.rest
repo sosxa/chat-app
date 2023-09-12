@@ -1,0 +1,21 @@
+GET http://localhost:5000/login/get
+
+###
+POST http://localhost:5000/register
+Content-type: application/json
+
+{
+    "email": "newacc@gmail.com",
+    "password": "newacc"
+}
+
+###
+POST http://localhost:5000/login
+Content-type: application/json
+
+{
+    "email": "1@gmail.com",
+    "password": "1"
+}
+
+###
