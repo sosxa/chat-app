@@ -1,6 +1,6 @@
 # chat-app
 
-currently a work in progress and privated because I need to add all the api keys and private information into a .env file and also use gitignore to hide the file 
+currently a work in progress and was privated because I need to add all the api keys and private information into a .env file and also use gitignore to hide the file 
 
 I currently have jsonwebtokens all the routes work well
 You can't access the home page without being authenticated and authroized 
