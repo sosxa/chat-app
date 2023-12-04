@@ -12,5 +12,3 @@ by removing google OAuth 2.0 and just solely use mongodb making it so users can'
 I'll do nmy best to have it as 2 databases one for google logins one for email users and another for chat logs but if it doesn't work out I won't allow it to eat me alive.
 
 Also been debating on if I want it to be one huge general chat portal or a website where users can chat with specefic users with the email as their username and make groupchats/private chat rooms. 
-
-I plan on finishing this porject early october
